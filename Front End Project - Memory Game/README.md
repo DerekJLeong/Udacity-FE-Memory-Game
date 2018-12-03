@@ -3,14 +3,20 @@
 ## Introduction
 
 This is a simple game based off of Concentration.
+
 It tests your memory by randomly shuffling a deck of 16 cards for you to match in sets of 2.
+
 Cards will animate at in every interaction.
+
 Moves will be counted, a rating is given, and a timer will time each play through.
+
 Upon completion a modal will be prompted with the final details.
 
 ## Dependencies
 https://fonts.googleapis.com/css?family=Permanent+Marker
+
 https://fonts.googleapis.com/css?family=Sedgwick+Ave
+
 https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 
 The game is split into seperate files.

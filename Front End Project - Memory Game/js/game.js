@@ -41,6 +41,8 @@ function shuffle(array) {
 }
 //Function to start new game
 function startGame() {
+   //Fixes restart button bug
+   openedCards = [];
    // shuffle deck
    cards = shuffle(cards);
    // remove all exisiting classes from each card

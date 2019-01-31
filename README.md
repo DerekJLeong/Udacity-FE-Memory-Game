@@ -1,4 +1,4 @@
-# Udacity-FE-Memory-Game
+# Udacity-FE-4x4 Matching Game
 4x4 memory game based on the game Concentration. Project for Udacity Front End Nano Degree.
 
 ## How to open and play
